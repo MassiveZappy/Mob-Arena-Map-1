@@ -19,3 +19,4 @@ Official links:
 Credits:
 -The official author is MassiveZappy.
 -If you have found this someplace other than the official guthub or MassiveZappy apps site, please email MassiveZappy (massivezappy@gmail.com) and redownload this from the official github (Linked above).
+-Thanks To CodeZelot for Teaching me how to make datapacks back in 1.15.2 and other that showed me mcfunction in 1.12!
