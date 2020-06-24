@@ -2,7 +2,7 @@
 Install Instructions:
 -Put this in your saves folder for minecraft.
 -Since This is a template message, please put the stuff in the "Other-stuff" folder where it belongs. :)
--Play in version 1.15.2, you may use optifine but shaders may ruin the experience.
+-Play in version 1.16.+, you may use optifine but shaders may ruin the experience.
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Official links:
 -https://github.com/MassiveZappy/Mob-Arena-Map-1
